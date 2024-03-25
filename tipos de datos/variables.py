@@ -1,4 +1,4 @@
-## Variables
+### Variables
 
 # Se definen y declaran al mismo tiempo
 a = 2

@@ -1,4 +1,4 @@
-## Operadores de comparación
+### Operadores de comparación
 
 a = 2
 b = 3

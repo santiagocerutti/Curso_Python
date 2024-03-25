@@ -1,4 +1,4 @@
-## Operadores Lógicos ( & , | , not)
+### Operadores Lógicos ( & , | , not)
 
 # AND (ambas tienen que ser verdaderas)
 t_and_t = True & True #Devuelve True

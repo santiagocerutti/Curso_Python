@@ -1,4 +1,4 @@
-## Operadores Aritméticos
+### Operadores Aritméticos
 # Suma y resta
 suma = 10 + 5
 resta = 10 - 5
